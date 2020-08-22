@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://loovien.github.io/2019/02/05/2019-1/</loc>
+    
+    <lastmod>2020-08-22T07:34:17.032Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://loovien.github.io/2020/08/21/%E4%BD%BF%E7%94%A8selenium+chrome%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD/</loc>
+    
+    <lastmod>2020-08-22T07:34:17.032Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://loovien.github.io/2020/05/05/how-to-use-opentracing/</loc>
     
     <lastmod>2020-05-05T02:29:37.198Z</lastmod>
