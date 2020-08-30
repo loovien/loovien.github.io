@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://loovien.github.io/"/>
-  <updated>2020-08-23T07:45:07.943Z</updated>
+  <updated>2020-08-30T15:54:01.308Z</updated>
   <id>https://loovien.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用猴油插件看vip电影</title>
+    <link href="https://loovien.github.io/2020/08/29/%E4%BD%BF%E7%94%A8%E7%8C%B4%E6%B2%B9%E6%8F%92%E4%BB%B6%E7%9C%8Bvip%E7%94%B5%E5%BD%B1/"/>
+    <id>https://loovien.github.io/2020/08/29/使用猴油插件看vip电影/</id>
+    <published>2020-08-29T06:17:59.000Z</published>
+    <updated>2020-08-30T15:54:01.308Z</updated>
+    
+    <content type="html"><![CDATA[<p>使用猴油插件的vip视频破解，看vip的电影有一段时间了， 发现用起来还不错，有些还可以看vvip的电影资源。简单分享下。</p><a id="more"></a><p>原理其实很简单，就是市面上有很多这个服务，他们先用自己的vip帐号去把视频下载下来， 然后上传到自己的服务器上，再次提供免费的服务。</p><p>猴油插件其实就是把这提供的地址做下管理 (脚本检测到你打开的是视频网站， 就在页面上显示一个按钮， 让你选择解析方式)，下面贴出来一些地址出来。</p><p>这些地址怎么来的，<a href="https://greasyfork.org/zh-CN/scripts?q=%E8%A7%86%E9%A2%91" target="_blank" rel="noopener">脚本中心</a>, 搜索视频破解， 然后找个脚本，查看下源码就可以看了。</p><p>直接使用猴油插件更好用了。(会用很多广告)。</p><p><a href="/images/videos/vip.mp4">视频教程</a></p><p>资源地址: <a href="https://pan.baidu.com/s/1L-ymBQ1lXsjo_qEKgyyf3A" target="_blank" rel="noopener">https://pan.baidu.com/s/1L-ymBQ1lXsjo_qEKgyyf3A</a> 提取码: fcvi</p><p>拿到这些地址， 就可以直接使用了。</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">&#123;name:"618G",url:"http://jx.618g.com/?url=",title:"618G",intab:1&#125;,</span><br><span class="line">&#123;name:"玩的嗨",url:"http://tv.wandhi.com/go.html?url=",title:"",intab:0&#125;,</span><br><span class="line">&#123;name:"最惠买",url:"http://www.zhmdy.top/index.php?zhm_jx=",title:"",intab:0&#125;,</span><br><span class="line">&#123;name:"噗噗电影",url:"http://www.pupudy.com/splay.php?play=",title:"",intab:0&#125;,</span><br><span class="line">&#123;name:"搜你妹",url:"http://www.sonimei.cn/?url=",title:"",intab:0&#125;,</span><br><span class="line">&#123;name:"石头解析",url:"https://jiexi.071811.cc/jx.php?url=",title:"",intab:1&#125;,</span><br><span class="line">&#123;name:"乐乐云",url:"https://660e.com/?url=",title:"",intab:1&#125;,</span><br><span class="line">&#123;name:"石头解析",url:"https://jiexi.071811.cc/jx.php?url=",title:"",intab:1&#125;,</span><br><span class="line">&#123;name:"无名小站",url:"http://www.sfsft.com/admin.php?url=",title:"",intab:1&#125;,</span><br><span class="line">&#123;name:"VIP看看",url:"http://q.z.vip.totv.72du.com/?url=",title:"",intab:1&#125;,</span><br><span class="line">&#123;name:"无名小站2",url:"http://www.wmxz.wang/video.php?url=",title:"",intab:1&#125;,</span><br><span class="line">&#123;name:"人人发布",url:"http://v.renrenfabu.com/jiexi.php?url=",title:"",intab:0&#125;</span><br></pre></td></tr></table></figure><p>举个例子：比如想看腾讯视频的<a href="https://v.qq.com/x/cover/smp6o8ceqbfu4bb.html" target="_blank" rel="noopener">《黑金》https://v.qq.com/x/cover/smp6o8ceqbfu4bb.html</a></p><p><a href="http://jx.618g.com/?url=https://v.qq.com/x/cover/smp6o8ceqbfu4bb.html" target="_blank" rel="noopener">直接用 <code>http://jx.618g.com/?url=https://v.qq.com/x/cover/smp6o8ceqbfu4bb.html</code></a></p><p>观看就好了。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;使用猴油插件的vip视频破解，看vip的电影有一段时间了， 发现用起来还不错，有些还可以看vvip的电影资源。简单分享下。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="tampermonkey" scheme="https://loovien.github.io/tags/tampermonkey/"/>
+    
+  </entry>
   
   <entry>
     <title>使用seleium+chrome实现自动学习</title>
@@ -391,26 +411,6 @@
     
     
       <category term="bash, rename" scheme="https://loovien.github.io/tags/bash-rename/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>linux 下性能查看工具集合</title>
-    <link href="https://loovien.github.io/2018/08/26/linux-performance-tools/"/>
-    <id>https://loovien.github.io/2018/08/26/linux-performance-tools/</id>
-    <published>2018-08-26T03:14:51.000Z</published>
-    <updated>2019-04-06T18:04:02.640Z</updated>
-    
-    <content type="html"><![CDATA[<p>linux常用的查看性能命令集合。</p><a id="more"></a><h4 id="如图"><a href="#如图" class="headerlink" title="如图"></a>如图</h4><p><img src="/images/linux-performance.jpg" alt="linux performance tools"></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;linux常用的查看性能命令集合。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="linux, monitor" scheme="https://loovien.github.io/tags/linux-monitor/"/>
     
   </entry>
   
